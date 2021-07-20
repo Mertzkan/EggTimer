@@ -1,0 +1,10 @@
+{
+    "name": "EggTimer",
+    "short_name": "EggTimer",
+    "theme_color": "#00008B",
+    "background_color": "#00008B",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
